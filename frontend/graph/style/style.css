@@ -1,0 +1,76 @@
+body{
+  margin:0;
+  padding:10px;
+  font:12px/17px Arial, sans-serif;
+  background:#f9f9f9;
+}
+
+#btnBack {
+    position: absolute;
+    top: 0px;
+    left: 1010px;
+    cursor: pointer;
+    z-index: 5;
+}
+
+canvas {
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: move;
+    background-color: #fff;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 5px 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #000;
+}
+
+#div_loading {
+    position: absolute;
+    top: 200px;
+    left: 360px;
+    width: 300px;
+    height: 250px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+#sideBar {
+    position: absolute;
+    top: 90px;
+    padding: 5px;
+    width: 200px;
+    background-color: #deedf0;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+#nodeInfo {
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #879a9e;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+.kinectCursor {
+	position: absolute;
+	top: 1px;
+	left: 1px;
+	width: 25px;
+	height: 25px;
+	z-index: 9999;
+}
+
+#debugInfo .big {
+	font-size: 30px;
+	font-weight: bold;
+}

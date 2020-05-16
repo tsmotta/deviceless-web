@@ -1,0 +1,113 @@
+body{
+  margin:0;
+  padding:0;
+  font:12px/17px Arial, sans-serif;
+  background:#f9f9f9;
+}
+
+#btnBack {
+    position: absolute;
+    top: 0px;
+    left: 1010px;
+    cursor: pointer;
+}
+
+#board {
+    display: block;
+    width: 768px;
+    height: 768px;
+    background: url("../img/board.png");
+}
+
+#gameResult {
+    margin-top: -768px;
+    float: left;
+    width: 768px;
+    height: 768px;
+    background-color: #cc0;
+    opacity: 0.888;
+    text-align: center;
+    padding-top: 110px;
+    color: #000;
+    font-size: 120px;
+    line-height: 1em;
+    display: none;
+}
+
+.gameCoord {
+    position: absolute;
+}
+
+#coord11 {
+    top: 0px;
+    left: 0px;
+}
+
+#coord12 {
+    top: 0px;
+    left: 256px;
+}
+
+#coord13 {
+    top: 0px;
+    left: 512px;
+}
+
+#coord21 {
+    top: 256px;
+    left: 0px;
+}
+
+#coord22 {
+    top: 256px;
+    left: 256px;
+}
+
+#coord23 {
+    top: 256px;
+    left: 512px;
+}
+
+#coord31 {
+    top: 512px;
+    left: 0px;
+}
+
+#coord32 {
+    top: 512px;
+    left: 256px;
+}
+
+#coord33 {
+    top: 512px;
+    left: 512px;
+}
+
+.kinectCursor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 25px;
+    height: 25px;
+    z-index: 9999;
+}
+
+#status {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#serverStatus {
+    margin-left: 10px;
+}
+
+#modeName {
+    position: absolute;
+    left: 53%;
+}

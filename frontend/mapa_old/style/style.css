@@ -1,0 +1,89 @@
+body{
+  margin:0;
+  padding:10px;
+  font:12px/17px Arial, sans-serif;
+  background:#f9f9f9;
+}
+
+canvas {
+    border: 1px solid #000;
+    cursor: move;
+    background-color: #fff;
+}
+
+h1 {
+    position: absolute;
+    top: 11px;
+    left: 11px;
+    padding: 10px;
+    margin: 0;
+    font-size: 40px;
+    color: #000;
+    background-color: #fff;
+    opacity: 0.888;
+    -moz-opacity: 0.888;
+}
+
+#imgHelp {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 3px 10px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #000;
+}
+
+.kinectCursor {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 25px;
+    height: 25px;
+    z-index: 9999;
+}
+
+.column {
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    width: 45%;
+    background-color: #fae58d;
+}
+
+.clicked {
+    background-color: #8dfa91;
+}
+
+#divLeft {
+    left: 10px;
+}
+
+#divRight {
+    left: 53%;
+}
+
+#status {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    padding: 10px 0;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#serverStatus {
+    margin-left: 10px;
+}
+
+#modeName {
+    position: absolute;
+    left: 53%;
+}

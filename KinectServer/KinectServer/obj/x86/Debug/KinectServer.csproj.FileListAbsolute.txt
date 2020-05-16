@@ -1,0 +1,12 @@
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\bin\Debug\KinectServer.exe
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\bin\Debug\KinectServer.pdb
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\bin\Debug\Fleck.dll
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\obj\x86\Debug\KinectServer.csprojResolveAssemblyReference.cache
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\obj\x86\Debug\KinectServer.exe
+d:\thiago\documents\visual studio 2010\Projects\KinectServer\KinectServer\obj\x86\Debug\KinectServer.pdb
+C:\Users\CG\Desktop\KinectServer\KinectServer\obj\x86\Debug\KinectServer.exe
+C:\Users\CG\Desktop\KinectServer\KinectServer\obj\x86\Debug\KinectServer.pdb
+C:\Users\CG\Desktop\KinectServer\KinectServer\bin\Debug\KinectServer.exe
+C:\Users\CG\Desktop\KinectServer\KinectServer\bin\Debug\KinectServer.pdb
+C:\Users\CG\Desktop\KinectServer\KinectServer\bin\Debug\Fleck.dll
+C:\Users\CG\Desktop\KinectServer\KinectServer\obj\x86\Debug\ResolveAssemblyReference.cache
